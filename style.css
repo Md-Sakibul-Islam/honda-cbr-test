@@ -1,0 +1,67 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.header-section {
+  background: #264653;
+}
+.honda-bold-text {
+  font-size: 48px;
+  font-weight: 600;
+  color: #ffffff;
+}
+.honda-text {
+  font-size: 14px;
+  color: #ffffff;
+}
+.btn-color {
+  width: 168px;
+  height: 44px;
+  background: #e76f51;
+  border-radius: 5px;
+  border: 0;
+}
+.word-color{
+    color: #e76f51;
+}
+.section-margin-top{
+    margin-top: 110px;
+}
+.future-bike-section{
+    margin-top: 61px;
+}
+.future-bike-text{
+    font-size: 40px;
+    color: #000000;
+}
+.bike-grayscale{
+    filter: grayscale(100%);
+}
+.future-bike img{
+    width: 80%;
+}
+.card img{
+    width: 149px;
+    height: 149px;
+}
+.card-text{
+    font-size: 16px;
+}
+.fa-star, .fa-star-half-alt{
+    color: #e76f51 ;
+}
+.faq-img{
+    width: 90%;
+}
+.accordion-text{
+    font-size: 16px;
+}
+.showroom{
+    box-shadow: 10px 10px 30px lightgray;
+    padding: 20px;
+    border-radius: 10px;
+}
+.program-text{
+font-size: 14px;
+line-height:30px;
+text-align: justify;
+}
